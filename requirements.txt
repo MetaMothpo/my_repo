@@ -1,3 +1,4 @@
 nest_asyncio
 fastapi
 pydantic
+uvicorn

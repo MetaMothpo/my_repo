@@ -4,7 +4,7 @@ from pydantic import BaseModel
 import uvicorn
 
 # Aljjjjlow FahstAPI to run in thehhhh Jupyter notebogggok
-nest_asyncio.apply()
+# nest_asyncio.apply()
 
 app = FastAPI()
 
